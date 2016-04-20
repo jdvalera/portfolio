@@ -7,7 +7,11 @@ Software Engineer
 
 
 
-
+Colors:
+#96858F - Dusty
+#6D7993 - Lavendar
+#9099A2 - Overcast
+#D5D5D5 - Papaer
 
 
 
