@@ -3,10 +3,18 @@
 }
 
 body {
-    color: #000;
+    color: #fff;
     padding-top: 50px;
-    background-color: #96858F;
+    background-color: #373B44;
+    font-weight: 500;
+    font-family: 'HelveticaNeue';
 }
+
+section:nth-child(even) {
+    background-color: #FE4B74;
+    color: black;
+}
+
 
 ul.nav {
     padding-right: 20px;
@@ -31,6 +39,10 @@ header {
     height: 100vh;
     display: table;
     width: 100%;
+}
+
+h1 {
+    font-size: 10rem;
 }
 
 footer {
