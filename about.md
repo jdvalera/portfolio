@@ -13,7 +13,10 @@ Colors:
 #9099A2 - Overcast
 #D5D5D5 - Papaer
 
-
+#4ABDAC - FRESH
+#FC4A1A - VERMILLION
+#F7B733 - SUNSHINE
+#DFDCE3 - CLEAN
 
 
 
