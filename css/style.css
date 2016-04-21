@@ -11,8 +11,8 @@ body {
 }
 
 section:nth-child(even) {
-    background-color: #FE4B74;
-    color: black;
+    /*background-color: #FE4B74;*/
+    background-color: #330000;
 }
 
 
@@ -54,4 +54,8 @@ footer {
 .content {
   display: table-cell;
   vertical-align: middle;
+}
+
+#portfolio div {
+    vertical-align: baseline;
 }
